@@ -18,7 +18,7 @@ Matching algorithm:
 
     Once a user has registered, depending on the university, a university logo, and symbolizing colors should appear as a font color on the main page
   
-  2. Depending on the current volume, a user can be matched with another student from the same university once. 
+   Depending on the current volume, a user can be matched with another student from the same university once. 
   
   
   3. Student also can press Go Global button, a user can be matched with another student (students from the university are not included) in Global room more than once.
